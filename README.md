@@ -5,12 +5,15 @@ Used Python script to explore the Current Weather status and Geo Information in 
 ## Options:
 First of all you will have to enter the Country/City/State/District name to explore the Current Weather status and Geo Information.
 <code>Enter Country/State/District name : </code>-<code>seoul</code><br />
-image 1
+<img src="https://raw.githubusercontent.com/sky9262/Python-Weather-API/main/Previews/1.PNG"/><br /><br />
+<img src="https://raw.githubusercontent.com/sky9262/Python-Weather-API/main/Previews/2.PNG"/>
 ### Current Weather status:
-image 2<br />
+
 <code>1. Weather status.</code>-<code>1</code><br />
-image 2.1
+<img src="https://raw.githubusercontent.com/sky9262/Python-Weather-API/main/Previews/2.1.PNG"/>
 
 ### Geo Information:
 <code>2. Geo Information</code>-<code>2</code><br />
-image 2.2
+<img src="https://raw.githubusercontent.com/sky9262/Python-Weather-API/main/Previews/2.2.PNG"/>
+<br /><br />
+<a href="https://replit.com/@sky9262/Weather-Api">Click here to run.<a>

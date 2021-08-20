@@ -16,4 +16,4 @@ First of all you will have to enter the Country/City/State/District name to expl
 <code>2. Geo Information</code>-<code>2</code><br />
 <img src="https://raw.githubusercontent.com/sky9262/Python-Weather-API/main/Previews/2.2.PNG"/>
 <br /><br />
-<a href="https://replit.com/@sky9262/Weather-Api">Click here to run.<a>
+<a href="https://replit.com/@sky9262/Weather-Api?v=1">Click here to run.<a>
